@@ -1,5 +1,5 @@
 # NIFTY-ANALYSIS
-### Description (500 words)
+
 I created a comprehensive and interactive Power BI dashboard using Nifty stock market data from 2000 to 2021. This dashboard is designed to provide an intuitive and detailed analysis of market trends and fluctuations, catering to both high-level and granular insights into stock performance over two decades.
 
 The dashboard features a clean and user-friendly layout that emphasizes easy navigation and data slicing capabilities. At its core is an **interactive line chart** that visualizes the **Open, Close, High, and Low (OHLC)** prices of Nifty over time. The graph dynamically updates when different time filters or company selections are applied, offering a seamless experience in exploring how stock values evolved during various periods.
